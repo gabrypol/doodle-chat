@@ -1,0 +1,12 @@
+.messages-list {
+  background-image: url('../../chatBackground.png');
+  margin-bottom: 76px;
+  margin-top: 46px;
+  overflow: auto;
+}
+
+.messages-list-container {
+  margin: 0px auto;
+  max-width: 640px;
+  padding: 0px 24px;
+}
