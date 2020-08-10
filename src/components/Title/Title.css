@@ -1,0 +1,13 @@
+.title {
+  background-color: #F6FBFF;
+  color: #3A72E0;
+  font-weight: 700;
+  font-size: 24px;
+  height: 30px;
+  overflow: auto;
+  padding: 10px 0px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
